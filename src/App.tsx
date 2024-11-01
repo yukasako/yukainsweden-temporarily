@@ -7,10 +7,12 @@ function App() {
       <main className={style.main}>
         <img src={topImg} alt="top-image" className={style.topImg} />
         <article className={style.message}>
-          <p>漫画ブログ・Yukainsweden は現在休止中です。</p>
+          <p>漫画ブログ・Yuka in sweden は現在休止中です。</p>
           <p>
             過去の漫画を読みたい方は
-            <a href="https://www.instagram.com/yukainsweden">インスタグラム</a>
+            <a href="https://www.instagram.com/yukainsweden">
+              インスタグラム(@yukainsweden)
+            </a>
             へ、
             <br />
             ご用の方は
